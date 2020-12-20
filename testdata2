@@ -1,0 +1,16 @@
+"_id","""_id""","""Year""","""Industry_aggregation_NZSIOC""","""Industry_code_NZSIOC""","""Industry_name_NZSIOC""","""Units""","""Variable_code""","""Variable_name""","""Value""","""""""Year""""""","""""""Industry_aggregation_NZSIOC""""""","""""""Industry_code_NZSIOC""""""","""""""Industry_name_NZSIOC""""""","""""""Units""""""","""""""Variable_code""""""","""""""Variable_name""""""","""""""Value"""""""
+"5fdf65d3845cbb32d82a3c9e","5fdf50bafcd7b91dfcba18ba","2019","Level 1","99999","All industries","Dollars (millions)","H01","Total income","1",,,,,,,,
+"5fdf65d3845cbb32d82a3c9f","5fdf50bafcd7b91dfcba18bb","2019","Level 1","99999","All industries","Dollars (millions)","H04","Sales","2",,,,,,,,
+"5fdf65d3845cbb32d82a3ca0","5fdf50bafcd7b91dfcba18bc","2019","Level 1","99999","All industries","Dollars (millions)","H05","Interest","3",,,,,,,,
+"5fdf65d3845cbb32d82a3ca1","5fdf50bafcd7b91dfcba18bd","2019","Level 1","99999","All industries","Dollars (millions)","H07","Non-operating income","4",,,,,,,,
+"5fdf65d3845cbb32d82a3ca2","5fdf50bafcd7b91dfcba18be","2019","Level 1","99999","All industries","Dollars (millions)","H08","Total expenditure","5",,,,,,,,
+"5fdf683d7831f01b28f3eaf9",,,,,,,,,,"2019","Level 1","99999","All industries","Dollars (millions)","H01","Total income","1"
+"5fdf683d7831f01b28f3eafa",,,,,,,,,,"2019","Level 1","99999","All industries","Dollars (millions)","H04","Sales","2"
+"5fdf683d7831f01b28f3eafb",,,,,,,,,,"2019","Level 1","99999","All industries","Dollars (millions)","H05","Interest","3"
+"5fdf683d7831f01b28f3eafc",,,,,,,,,,"2019","Level 1","99999","All industries","Dollars (millions)","H07","Non-operating income","4"
+"5fdf683d7831f01b28f3eafd",,,,,,,,,,"2019","Level 1","99999","All industries","Dollars (millions)","H08","Total expenditure","5"
+"5fdf689aa9cd4f257cbe87b2",,,,,,,,,,"2019","Level 1","99999","All industries","Dollars (millions)","H01","Total income","1"
+"5fdf689aa9cd4f257cbe87b3",,,,,,,,,,"2019","Level 1","99999","All industries","Dollars (millions)","H04","Sales","2"
+"5fdf689aa9cd4f257cbe87b4",,,,,,,,,,"2019","Level 1","99999","All industries","Dollars (millions)","H05","Interest","3"
+"5fdf689aa9cd4f257cbe87b5",,,,,,,,,,"2019","Level 1","99999","All industries","Dollars (millions)","H07","Non-operating income","4"
+"5fdf689aa9cd4f257cbe87b6",,,,,,,,,,"2019","Level 1","99999","All industries","Dollars (millions)","H08","Total expenditure","5"
